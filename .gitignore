@@ -1,2 +1,5 @@
 catsvsdogs_venv_
 .env
+.github
+.pytest_cache
+.idea
