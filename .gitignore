@@ -1,5 +1,5 @@
-catsvsdogs_venv_
+catsvsdogs_venv_/
 .env
-.github
-.pytest_cache
-.idea
+.github/
+.pytest_cache/
+.idea/
