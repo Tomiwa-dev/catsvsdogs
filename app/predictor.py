@@ -40,7 +40,7 @@ def makeprediction(img):
     pred = model.predict(img)
     prediction = np.argmax(pred[0])
     if prediction == 0:
-        return {f'ANIMAL': 'Its a Cat'}
+        return {f'ANIMAL': 'CAT'}
     else:
-        return {f'ANIMAL': 'Its a Dog'}
+        return {f'ANIMAL': 'DOG'}
 
