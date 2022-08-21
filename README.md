@@ -1,1 +1,1 @@
-This repo contains code for building API'S using FastAPI library for ML Deployment. 
+This repo contains code for building API's using FastAPI library for ML Deployment. 
